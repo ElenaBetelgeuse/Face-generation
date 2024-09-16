@@ -1,2 +1,3 @@
 # Face-generation
-https://www.google.com/url?q=http%3A%2F%2Fwww.kaggle.com...nime-faces
+https://www.kaggle.com/datasets/soumikrakshit/anime-faces
+Create an anime face generator based on the dataset https://www.kaggle.com/datasets/soumikrakshit/anime-faces
